@@ -15,9 +15,8 @@ Education
 
     *Thesis title: Algebra and Relational Semantics for Lambek Calculus*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+1997-2001
+:   **BSc, Computer and Mathematical Science**; Shimane University
 
     *Major: Attacks of the quadaratic sieve method on RSA cryptosystem*
 
