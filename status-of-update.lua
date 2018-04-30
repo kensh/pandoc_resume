@@ -14,9 +14,9 @@ return {
  },
  ["info"]={
   ["comment"]="this file contains the settings of the last 'mtxrun --script update' run",
-  ["count"]=1,
-  ["date"]="2018-04-29 13:50:43",
-  ["runtime"]=386.547,
+  ["count"]=2,
+  ["date"]="2018-04-30 14:12:13",
+  ["runtime"]=70.775,
   ["version"]=0.1,
  },
  ["modules"]={

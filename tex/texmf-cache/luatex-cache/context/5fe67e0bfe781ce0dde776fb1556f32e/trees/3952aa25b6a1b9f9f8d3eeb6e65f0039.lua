@@ -1194,10 +1194,10 @@ return {
    ["zeroplacer.lua"]="ZeroPlacer.lua",
   },
  },
- ["date"]="2018-04-29",
+ ["date"]="2018-04-30",
  ["root"]="selfautoparent:texmf-modules",
- ["time"]="22:57:09",
+ ["time"]="23:13:23",
  ["type"]="files",
- ["uuid"]="041ab7cc-4ec1-9fa1-8436-509841ae5f00",
+ ["uuid"]="3a63719b-4739-a212-408d-013b5f00f8d2",
  ["version"]="1.100",
 }

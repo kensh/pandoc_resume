@@ -13,10 +13,10 @@ return {
    ["ls-r"]="ls-R",
   },
  },
- ["date"]="2018-04-29",
+ ["date"]="2018-04-30",
  ["root"]="selfautoparent:texmf-local",
- ["time"]="22:57:09",
+ ["time"]="23:13:23",
  ["type"]="files",
- ["uuid"]="e5a2a9a7-4efe-9ae4-0023-1cdc6325e067",
+ ["uuid"]="266b8015-48a7-a42f-eb93-4460d42a95b7",
  ["version"]="1.100",
 }

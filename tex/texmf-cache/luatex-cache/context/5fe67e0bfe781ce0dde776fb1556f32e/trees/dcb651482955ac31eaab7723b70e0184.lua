@@ -1585,10 +1585,10 @@ return {
    ["xitsmath-regular.otf"]="XITSMath-Regular.otf",
   },
  },
- ["date"]="2018-04-29",
+ ["date"]="2018-04-30",
  ["root"]="selfautoparent:texmf",
- ["time"]="22:57:09",
+ ["time"]="23:13:23",
  ["type"]="files",
- ["uuid"]="a5f53b38-4ff0-a3f5-b6cc-7276b015b0e1",
+ ["uuid"]="165ff691-41bf-a310-8d81-1fa1e821ae9b",
  ["version"]="1.100",
 }

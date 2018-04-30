@@ -73,10 +73,10 @@ return {
    ["ls-r"]="ls-R",
   },
  },
- ["date"]="2018-04-29",
+ ["date"]="2018-04-30",
  ["root"]="selfautoparent:texmf-osx-64",
- ["time"]="22:57:09",
+ ["time"]="23:13:23",
  ["type"]="files",
- ["uuid"]="a879d445-443f-ab9e-ed95-a5d21e5d9bdc",
+ ["uuid"]="d6d1fe58-484c-a24d-04cf-2acbb23147bc",
  ["version"]="1.100",
 }
