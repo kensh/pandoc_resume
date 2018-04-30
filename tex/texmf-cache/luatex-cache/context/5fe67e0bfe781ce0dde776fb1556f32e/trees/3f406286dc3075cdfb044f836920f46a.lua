@@ -1,0 +1,22 @@
+return {
+ ["content"]={
+  ["files"]={
+   ["ls-r"]="",
+  },
+  ["metadata"]={
+   ["directories"]=0,
+   ["files"]=1,
+   ["path"]="selfautoparent:texmf-fonts",
+   ["remappings"]=1,
+  },
+  ["remap"]={
+   ["ls-r"]="ls-R",
+  },
+ },
+ ["date"]="2018-04-29",
+ ["root"]="selfautoparent:texmf-fonts",
+ ["time"]="22:57:09",
+ ["type"]="files",
+ ["uuid"]="ae1e9583-435d-b374-ca1a-6c0803c50d70",
+ ["version"]="1.100",
+}
